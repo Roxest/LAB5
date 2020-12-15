@@ -14,7 +14,7 @@ int main(){
             odds++;
         }
     }
-    cout << "#Even numbers = "<< evens;
+    cout << "#Even numbers = "<< evens << endl;
     cout << "#Odd numbers = "<< odds;
     return 0;
 }
